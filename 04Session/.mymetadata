@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project-module
+  type="WEB"
+  name="04Session"
+  id="myeclipse.1510015375955"
+  context-root="/04Session"
+  j2ee-spec="6.0"
+  archive="04Session.war">
+  <attributes>
+    <attribute name="webrootdir" value="WebRoot" />
+  </attributes>
+</project-module>
+

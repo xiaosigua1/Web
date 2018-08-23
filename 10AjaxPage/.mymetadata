@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project-module
+  type="WEB"
+  name="10AjaxPage"
+  id="myeclipse.1511829302866"
+  context-root="/10AjaxPage"
+  j2ee-spec="6.0"
+  archive="10AjaxPage.war">
+  <attributes>
+    <attribute name="webrootdir" value="WebRoot" />
+  </attributes>
+</project-module>
+
